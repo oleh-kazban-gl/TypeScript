@@ -2119,5 +2119,5 @@ console.log('from index: ', fromA2);
 -   https://palantir.github.io/tslint/
 -   https://github.com/palantir/tslint/issues/4534
 -   https://eslint.org/
--   https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/ \* https://habr.com/ru/company/dododev/blog/473648/
--   https://lh6.googleusercontent.com/W36S0fdgyJuAMBRemTG9XdHTts30IHzqefE9pqTvJSKNt8E3Rt93ItDDWUeU18lrH-Rh4rrXwrw3-XAhK2Hw8S7HaXm4NKCuCpOYGiegUp3shzEOQcLFDNgGmgIoT49bW5NtL-kW
+-   https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
+-   https://habr.com/ru/company/dododev/blog/473648/
