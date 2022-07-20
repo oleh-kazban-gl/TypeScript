@@ -1,0 +1,1 @@
+var fromA = 'test string';

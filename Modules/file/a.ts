@@ -1,0 +1,1 @@
+export const fromA = 'test string';
