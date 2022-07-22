@@ -1051,7 +1051,8 @@ const todo: TodoPreview = {
 };
 ```
 
-###Exclude<Type, ExcludeUnion>
+### Exclude<Type, ExcludeUnion>
+
 Constructs a type by excluding from Type all union members that are assignable to ExcludedUnion.
 
 ```
@@ -1267,8 +1268,6 @@ let strLength: number = (<string>someValue).length;
 ## Functions
 
 ```
-let z = 100;
-
 // Named function
 function add(x, y) {
   return x + y;
@@ -1283,8 +1282,6 @@ let myAdd = function (x, y) {
 ### Arrow Functions
 
 ```
-let z = 100;
-
 const add = (x: number, y: number): number => {
   return x + y;
 };

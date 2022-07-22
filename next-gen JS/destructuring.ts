@@ -1,6 +1,9 @@
 let input = [1, 2];
 let [first, second] = input;
 
+// let _first = input[0];
+// let _second = input[1];
+
 console.log(first); // outputs 1
 console.log(second); // outputs 2
 
